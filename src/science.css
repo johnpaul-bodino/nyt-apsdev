@@ -1,0 +1,368 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.webmadewell {
+  background-color: white;
+}
+
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  min-height: 100vh;
+  color:#555;
+
+}
+
+header{
+  display: flex;
+  width: 100%;
+  height: 14vh;
+  background: rgba(122,122,122,0.57);
+  position: fixed;
+  padding:10px;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  border-bottom: 2px solid rgb(107, 165, 241);
+  
+  
+}
+nav{
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+  position: absolute;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  height: 60px;
+  text-shadow: 2px 2px rgb(10, 10, 10);
+  
+  
+}
+
+nav .logo a{
+  font-size: 1.7rem;
+  font-weight: bold;
+}
+
+.time{
+  color: aliceblue;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+nav .links{
+  display: flex;
+  gap: 6rem;
+}
+
+nav .toggle_btn{
+  color: aliceblue;
+  font-size: 1.9rem;
+  cursor: pointer;
+  display: none;
+  
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+}
+a:hover{
+  color: rgb(107, 165, 241);
+}
+
+/*dropdown*/
+.dropdown_menu{
+  display: none;
+  position: absolute;
+  right: 2rem;
+  height: 0;
+  top: 70px;
+  width: 300px;
+  background: rgba(255,255,255,0.1);
+  backdrop-filter: blur(15px);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: height 0.2 cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.dropdown_menu.open{
+  height: 240px;
+ 
+
+}
+.dropdown_menu li{
+  padding: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#container {
+  align-items: center;
+  background-image: url('https://res.cloudinary.com/dda8q97x2/image/upload/v1726765027/portfolio%20images/r9by3rvzvopwsu9vggli.jpg');
+  background-size: cover; 
+  background-position: center;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+#container::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: MidnightBlue;
+  opacity: 0.3;
+  z-index: 0; 
+}
+
+
+/*hero*/
+#hero {
+  height: calc(100vh - 60px);
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px rgb(10, 10, 10);
+  
+}
+#hero h1{
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  z-index: 1; 
+  
+}
+.hero-btn {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  margin-top: 20px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+ 
+}
+
+.hero-btn:hover {
+  background-color: #54595f;
+  
+}
+a{
+  z-index: 1;
+}
+  
+  
+
+
+  /*topNews , scienceNews*/
+  /*topHeadlines, ScienceHeadlines
+  /*SCIENCE*/
+.scienceHeadlines{
+    padding: 100px 50px 50px;
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    background-color: #B5C1C4;
+  
+}
+.scienceHeadlines .left{
+    padding: 10px 30px;
+  
+}
+.scienceHeadlines h3{
+  color: #555;
+  font-size: 1.6rem;
+}
+.scienceHeadlines h3:hover{
+  text-decoration: underline;
+}
+.scienceHeadlines .left > .title{
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+.scienceHeadlines .left .img{
+    width: 100%;
+    height: 400px;
+    background-color: #a04;
+}
+.scienceHeadlines .left .img img{
+    width: 100%;
+    height: 100%;
+}
+.scienceHeadlines .left .text{
+    padding: 20px 15px 10px;
+}
+.scienceHeadlines .left .text .title a{
+    text-decoration: none;
+}
+
+.scienceHeadlines .left .text .description{
+    font-size: 1rem;
+    margin-top: 10px;
+    color: #555;
+    letter-spacing: 1px;
+    font-weight: 400;
+   
+}
+
+.article h2{
+  font-size: 1.2rem;
+}
+
+.scienceHeadlines .right{
+    padding: 10px;
+    width: 100%;
+    height: 500px;
+}
+.scienceHeadlines .right > .title{
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+.scienceHeadlines .right .scienceNews{
+    padding: 7px;
+    height: 85%;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    overflow-y: scroll;
+}
+.scienceHeadlines .right .scienceNews .news{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    margin-bottom: 20px;
+    
+}
+.scienceHeadlines .right .scienceNews .news .img{
+    width: 170px;
+    height: 100%;
+    max-height: 120px;
+    min-height: 90px;
+    background-color: #a04;
+}
+.scienceHeadlines .right .scienceNews .news .img img{
+    width: 100%;
+    height: 100%;
+}
+.scienceNews img {
+    width: 300px; /* Set the width you want */
+    height: auto; /* This keeps the aspect ratio */
+}
+.scienceNews li{
+  padding-bottom: 40px;
+}
+.scienceNews a{
+  font-size: 1.2rem;
+  color: #555;
+  
+}
+
+.scienceNews a:hover{
+  color: #559dfc;
+  text-decoration: underline;
+}
+.scienceHeadlines .right .scienceNews .news .text{
+    margin-inline: 10px;
+    display: flex;
+    align-items: center;
+}
+.scienceHeadlines .right .scienceNews .news .text .title a{
+    text-decoration: none;
+}
+.scienceHeadlines .right .scienceNews .news .text .title a p{
+    color: #fff;
+    display: inline;
+}
+
+
+  
+  
+   
+@media (max-width: 576px) {
+  .dropdown_menu{
+    left: 2rem;
+    width: unset;
+  }
+}
+
+@media (max-width:1024px) {
+  .scienceHeadlines .right .scienceNews .news .img {
+    width: 150px;
+  }
+  .scienceHeadlines .right .scienceNews .news .text .title a p {
+    font-size: 14px;
+  }
+  
+}
+@media (max-width:768px) {
+  .scienceHeadlines {
+    display: block;
+  }
+  .scienceHeadlines .right .scienceNews .news .img {
+    width: 220px;
+  }
+  .scienceHeadlines .right .scienceNews .news .text .title a p {
+    font-size: 18px;
+  }
+}
+@media (max-width:600px) {
+  .scienceHeadlines .left {
+    padding: 10px 0px;
+  }
+  .scienceHeadlines .right .scienceNews .news .img {
+    width: 150px;
+  }
+  .scienceHeadlines .right .scienceNews .news .text .title a p {
+    font-size: 14px;
+  }
+}
+
+
+@media (max-width: 992px){
+  nav .links{
+    display: none;
+  }
+  nav .toggle_btn{
+    display: block;
+    padding-right: 10px;
+  }
+  .dropdown_menu{
+    display: block;
+  }
+  nav .logo a{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-left: 10px;
+  }
+}
+
+@media (max-width:1024px) {
+  .scienceHeadlines .right .scienceNews .news .img {
+    width: 150px;
+  }
+  .scienceHeadlines .right .scienceNews .news .text .title a p {
+    font-size: 14px;
+  }
+  
+}
