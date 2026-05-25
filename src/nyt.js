@@ -5,6 +5,7 @@ const sciencecover = document.querySelector('.scienceNews');
 const imgContainer = document.querySelector('#scienceImg');
 const titleContainer = document.querySelector('#sciencetext .title');
 const descriptionContainer = document.querySelector('#sciencetext .description');
+const bookList = document.querySelector('.book-lists');
 
 const getTopscience = async () => {
   try {
@@ -18,6 +19,8 @@ const getTopscience = async () => {
 };
 
 const updateContainerscience = (science) => {
+  if (!sciencecover) return;
+
   sciencecover.innerHTML = '';
   
   (science.results || []).slice(3).forEach((science_data) => {
@@ -46,12 +49,11 @@ const updateContainerscience = (science) => {
 };
 
 const updateLatestNews = (news) => {
-    
-    if (!news) return;
+    if (!news || !imgContainer || !titleContainer || !descriptionContainer) return;
     const imageUrl = news.multimedia && news.multimedia.length > 0 ? news.multimedia[0].url : null;
 
     if (imageUrl) {
-        imgContainer.innerHTML = `<img src="${imageUrl}" alt="${news.title || 'News Image'}" style="width%; height: 100%;">`;
+        imgContainer.innerHTML = `<img src="${imageUrl}" alt="${news.title || 'News Image'}">`;
     }
 
     titleContainer.innerHTML = `<a href="${news.url || '#'}"><h3>${news.title || 'No Title'}</h3></a>`;
@@ -60,6 +62,8 @@ const updateLatestNews = (news) => {
 };
 
 (async () => {
+    if (!sciencecover) return;
+
     const ud_datascience = await getTopscience();
     console.log(ud_datascience);
     updateContainerscience(ud_datascience);
@@ -74,6 +78,8 @@ const updateLatestNews = (news) => {
 })();
 
 async function fetchBookData() {
+    if (!bookList) return;
+
     try {/*https://api.nytimes.com/svc/books/v3/lists/current/hardcover-fiction.json?api-key=eHsPZe0Dz2D2HKdpAys2HmM2Dmdsal8*/
         const response = await fetch('test.json');
 
@@ -93,7 +99,7 @@ async function fetchBookData() {
                           </div>
                         </div>`;
         });
-        document.querySelector(".book-lists").innerHTML = output;
+        bookList.innerHTML = output;
 
     } catch (error) {
         console.error('Error fetching JSON data:', error);
@@ -105,21 +111,24 @@ fetchBookData();
 /*for navigation */
 const toggleBtn = document.querySelector('.toggle_btn');
 const dropdownMenu = document.querySelector('.dropdown_menu');
-const icon = toggleBtn.querySelector('i');
+const icon = toggleBtn ? toggleBtn.querySelector('i') : null;
 
-toggleBtn.addEventListener('click', () => {
-  dropdownMenu.classList.toggle('open');
-  if (dropdownMenu.classList.contains('open')) {
-    icon.classList.remove('uil-bars');
-    icon.classList.add('uil-times');
-  } else {
-    icon.classList.remove('uil-times');
-    icon.classList.add('uil-bars');
-  }
-});
+if (toggleBtn && dropdownMenu && icon) {
+  toggleBtn.addEventListener('click', () => {
+    dropdownMenu.classList.toggle('open');
+    if (dropdownMenu.classList.contains('open')) {
+      icon.classList.remove('uil-bars');
+      icon.classList.add('uil-times');
+    } else {
+      icon.classList.remove('uil-times');
+      icon.classList.add('uil-bars');
+    }
+  });
+}
 
 function updateDateTime() {
   const timeElement = document.getElementById('current-time');
+  if (!timeElement) return;
   const now = new Date();
   const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
   timeElement.innerHTML = now.toLocaleDateString('en-US', options);

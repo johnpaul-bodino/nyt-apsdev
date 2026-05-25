@@ -1,0 +1,1602 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "Science",
+    "last_updated": "2024-09-23T11:14:05-04:00",
+    "num_results": 26,
+    "results": [
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Sign Up for the Science Times Newsletter",
+            "abstract": "Every week, we’ll bring you stories that capture the wonders of the human body, nature and the cosmos.",
+            "url": "null",
+            "uri": "nyt://embeddedinteractive/daba9d03-29b8-5cfc-8cbd-74b8abf54a07",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2018-04-07T13:23:25-04:00",
+            "created_date": "2016-02-05T18:18:53-05:00",
+            "published_date": "2016-02-05T18:18:53-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1534,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-mediumThreeByTwo440.jpg",
+                    "format": "mediumThreeByTwo440",
+                    "height": 293,
+                    "width": 440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2016/02/06/science/sciencenewsletter2/sciencenewsletter2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "NASA, via Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "admin",
+            "subsection": "",
+            "title": "",
+            "abstract": "",
+            "url": "",
+            "uri": "nyt://embeddedinteractive/6cb185ed-65ac-50a5-ace3-5bab81934245",
+            "byline": "",
+            "item_type": "EmbeddedInteractive",
+            "updated_date": "2015-07-20T13:45:03-04:00",
+            "created_date": "2015-04-16T14:13:18-04:00",
+            "published_date": "2015-04-16T14:13:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Was It Really a Hot Zone Summer?",
+            "abstract": "From Covid to dengue, viral outbreaks seemed to be popping up all over. But maybe Americans are just more attuned to threats now.",
+            "url": "https://www.nytimes.com/2024/09/23/health/virus-outbreaks-summer.html",
+            "uri": "nyt://article/4d47d1c4-9d59-5ef6-b351-df56cac09f48",
+            "byline": "By Apoorva Mandavilli",
+            "item_type": "Article",
+            "updated_date": "2024-09-23T10:48:16-04:00",
+            "created_date": "2024-09-23T10:48:16-04:00",
+            "published_date": "2024-09-23T10:48:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Mosquitoes",
+                "Disease Rates",
+                "Encephalitis",
+                "Dengue Fever",
+                "Global Warming",
+                "Epidemics",
+                "Summer (Season)",
+                "Viruses"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Laredo (Tex)",
+                "St Louis (Mo)",
+                "Nuevo Laredo (Mexico)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/science/23hot-zone-summer-01/23hot-zone-summer-01-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mosquitoes sickened some Americans with infections like dengue, malaria, West Nile virus and Eastern equine encephalitis. But apart from dengue, the outbreaks were not particularly bad.",
+                    "copyright": "Jon Cherry/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/science/23hot-zone-summer-01/23hot-zone-summer-01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mosquitoes sickened some Americans with infections like dengue, malaria, West Nile virus and Eastern equine encephalitis. But apart from dengue, the outbreaks were not particularly bad.",
+                    "copyright": "Jon Cherry/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/science/23hot-zone-summer-01/23hot-zone-summer-01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mosquitoes sickened some Americans with infections like dengue, malaria, West Nile virus and Eastern equine encephalitis. But apart from dengue, the outbreaks were not particularly bad.",
+                    "copyright": "Jon Cherry/Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "The World Is a Mess. That Makes the Climate Crisis Harder to Solve.",
+            "abstract": "A transformed China, conflicts in Ukraine and elsewhere, and intractable clashes over money have pushed the prospects of progress to a new low.",
+            "url": "https://www.nytimes.com/2024/09/23/climate/climate-diplomacy-fracture.html",
+            "uri": "nyt://article/1c284a17-85f4-526e-afb1-68aa714ec2af",
+            "byline": "By Somini Sengupta and Max Bearak",
+            "item_type": "Article",
+            "updated_date": "2024-09-23T09:28:53-04:00",
+            "created_date": "2024-09-23T05:03:33-04:00",
+            "published_date": "2024-09-23T05:03:33-04:00",
+            "material_type_facet": "",
+            "kicker": "News Analysis",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "International Relations",
+                "Politics and Government",
+                "International Trade and World Market",
+                "Russian Invasion of Ukraine (2022)",
+                "United Nations Framework Convention on Climate Change"
+            ],
+            "org_facet": [
+                "United Nations"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23cli-climate-fractures-01-bwfj/23cli-climate-fractures-01-bwfj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The United Nations headquarters in Manhattan, where the General Assembly begins on Monday.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23cli-climate-fractures-01-bwfj/23cli-climate-fractures-01-bwfj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The United Nations headquarters in Manhattan, where the General Assembly begins on Monday.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/multimedia/23cli-climate-fractures-01-bwfj/23cli-climate-fractures-01-bwfj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The United Nations headquarters in Manhattan, where the General Assembly begins on Monday.",
+                    "copyright": "Angela Weiss/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "They’ve Got a Plan to Fight Global Warming. It Could Alter the Oceans.",
+            "abstract": "By tweaking the chemistry of rivers and oceans, humans could remove billions of tons of carbon dioxide from the air. But huge challenges loom.",
+            "url": "https://www.nytimes.com/2024/09/23/climate/oceans-rivers-carbon-removal.html",
+            "uri": "nyt://article/7fde1996-d185-5781-bd34-1f8dffe80752",
+            "byline": "By Brad Plumer, Raymond Zhong and Greta Rybus",
+            "item_type": "Article",
+            "updated_date": "2024-09-23T10:11:48-04:00",
+            "created_date": "2024-09-23T03:00:28-04:00",
+            "published_date": "2024-09-23T03:00:28-04:00",
+            "material_type_facet": "",
+            "kicker": "BUYING TIME",
+            "des_facet": [
+                "Carbon Capture and Sequestration",
+                "Rivers",
+                "Global Warming",
+                "Geoengineering",
+                "Carbon Dioxide",
+                "Fish and Other Marine Life",
+                "Oceans and Seas",
+                "Research",
+                "Start-ups",
+                "Greenhouse Gas Emissions"
+            ],
+            "org_facet": [
+                "CarbonRun"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Nova Scotia (Canada)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00cli-buyingtime-oceans-stillpromo-lcjq/00cli-buyingtime-oceans-promo-lcjq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Greta Rybus for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00cli-buyingtime-oceans-stillpromo-lcjq/00cli-buyingtime-oceans-promo-lcjq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Greta Rybus for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/20/multimedia/00cli-buyingtime-oceans-stillpromo-lcjq/00cli-buyingtime-oceans-promo-lcjq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Greta Rybus for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Earth’s Fall Equinox Ushers In Astronomical Autumn",
+            "abstract": "During an equinox, places around the globe experience nearly equal amounts of daytime and nighttime. The second occurrence this year happens on Sunday.",
+            "url": "https://www.nytimes.com/article/fall-equinox-autumn.html",
+            "uri": "nyt://article/4b6f33b8-5928-5753-9b46-344422dd724f",
+            "byline": "By Katrina Miller",
+            "item_type": "Article",
+            "updated_date": "2024-09-22T14:25:30-04:00",
+            "created_date": "2024-09-21T12:00:10-04:00",
+            "published_date": "2024-09-21T12:00:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Space and Astronomy",
+                "Autumn (Season)",
+                "Earth",
+                "Sun"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/21/science/21equinox/21equinox-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Equinoxes occur when Earth reaches a point in its orbit where the sun shines directly on the Equator, occurring twice each year, in March and September",
+                    "copyright": "NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/21/science/21equinox/21equinox-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Equinoxes occur when Earth reaches a point in its orbit where the sun shines directly on the Equator, occurring twice each year, in March and September",
+                    "copyright": "NASA"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/21/science/21equinox/21equinox-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Equinoxes occur when Earth reaches a point in its orbit where the sun shines directly on the Equator, occurring twice each year, in March and September",
+                    "copyright": "NASA"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Drug Overdose Deaths Are Dropping. The Reasons Are Not Perfectly Clear.",
+            "abstract": "The decrease across the country is a major breakthrough in efforts to reverse the effects of fentanyl. Researchers and health officials say there is no easy explanation for the trend.",
+            "url": "https://www.nytimes.com/2024/09/21/us/politics/drug-overdose-deaths-decrease.html",
+            "uri": "nyt://article/3a08aa57-f34c-5ed9-b28f-e51450834591",
+            "byline": "By Noah Weiland",
+            "item_type": "Article",
+            "updated_date": "2024-09-22T11:23:08-04:00",
+            "created_date": "2024-09-21T05:04:30-04:00",
+            "published_date": "2024-09-21T05:04:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Drug Abuse and Traffic",
+                "Deaths (Fatalities)",
+                "Naloxone (Drug)",
+                "Fentanyl",
+                "Buprenorphine (Drug)",
+                "Opioids and Opiates"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21dc-overdoses-jlpg/21dc-overdoses-jlpg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Data suggests that some of the tools used to combat opioid overdoses, like the overdose-reversing medication Narcan, were having a significant impact.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21dc-overdoses-jlpg/21dc-overdoses-jlpg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Data suggests that some of the tools used to combat opioid overdoses, like the overdose-reversing medication Narcan, were having a significant impact.",
+                    "copyright": "Hilary Swift for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/21/multimedia/21dc-overdoses-jlpg/21dc-overdoses-jlpg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Data suggests that some of the tools used to combat opioid overdoses, like the overdose-reversing medication Narcan, were having a significant impact.",
+                    "copyright": "Hilary Swift for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "What We Know (and Don’t Know) About ‘Forever Chemicals’ in Food",
+            "abstract": "There’s a growing understanding of the health threats of PFAS chemicals in what we eat and drink.",
+            "url": "https://www.nytimes.com/2024/09/21/climate/pfas-chemicals-food-health.html",
+            "uri": "nyt://article/fd80dde1-7e9b-5e05-bef5-7521a979e32e",
+            "byline": "By Hiroko Tabuchi",
+            "item_type": "Article",
+            "updated_date": "2024-09-21T07:11:16-04:00",
+            "created_date": "2024-09-21T05:02:03-04:00",
+            "published_date": "2024-09-21T05:02:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "PFAS (Per- and Polyfluoroalkyl Substances)",
+                "Hazardous and Toxic Substances",
+                "Pollution",
+                "Agriculture and Farming",
+                "Food",
+                "Sewers and Sewage",
+                "Fertilizer",
+                "Environment",
+                "Medicine and Health",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "PFAS-contaminated beef from a farm in Maine. ",
+                    "copyright": "Greta Rybus for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "PFAS-contaminated beef from a farm in Maine. ",
+                    "copyright": "Greta Rybus for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00CLI-SLUDGE-FOOD-hfqc/00CLI-SLUDGE-FOOD-hfqc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "PFAS-contaminated beef from a farm in Maine. ",
+                    "copyright": "Greta Rybus for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Her Children Were Sick. Was It ‘Forever Chemicals’ on the Family Farm?",
+            "abstract": "Pastures were fertilized with toxic sewage decades ago. Nobody knew, until the cows’ milk was tested.",
+            "url": "https://www.nytimes.com/2024/09/21/climate/farm-pfas-meat-poison-sewage-sludge.html",
+            "uri": "nyt://article/17940183-1288-527a-8109-ee74c7a11bd3",
+            "byline": "By Hiroko Tabuchi",
+            "item_type": "Article",
+            "updated_date": "2024-09-21T09:09:56-04:00",
+            "created_date": "2024-09-21T05:00:29-04:00",
+            "published_date": "2024-09-21T05:00:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "PFAS (Per- and Polyfluoroalkyl Substances)",
+                "Agriculture and Farming",
+                "Beef",
+                "Dairy Products",
+                "Livestock",
+                "Food Contamination and Poisoning",
+                "Hazardous and Toxic Substances",
+                "Sewers and Sewage",
+                "Fertilizer",
+                "Children and Childhood",
+                "Medicine and Health",
+                "Environment",
+                "Water Pollution"
+            ],
+            "org_facet": [
+                "Environmental Protection Agency"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New Hampshire",
+                "Maine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Greta Rybus for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Greta Rybus for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/11/multimedia/00CLI-SLUDGE-FAMILY-promo-wqgv/00CLI-SLUDGE-FAMILY-promo-wqgv-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Greta Rybus for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Michel Siffre, 85, Dies; Descended Into Caves to Study the Human Mind",
+            "abstract": "He was a pioneer in chronobiology, the study of how our bodies understand the passage of time.",
+            "url": "https://www.nytimes.com/2024/09/20/science/michel-siffre-dead.html",
+            "uri": "nyt://article/57fe6128-cb26-5092-b87e-280052b179a6",
+            "byline": "By Clay Risen",
+            "item_type": "Article",
+            "updated_date": "2024-09-21T15:19:21-04:00",
+            "created_date": "2024-09-20T17:57:26-04:00",
+            "published_date": "2024-09-20T17:57:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Caves and Caverns",
+                "Research",
+                "Biorhythms",
+                "Sleep"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Siffre, Michel"
+            ],
+            "geo_facet": [
+                "France"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/multimedia/20Siffre-03-hcqg/20Siffre-03-hcqg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michel Siffre waved to well-wishers before beginning a two-month sojourn in the Clamouse cave in France in November 1999.",
+                    "copyright": "Philippe Desmazes/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/multimedia/20Siffre-03-hcqg/20Siffre-03-hcqg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michel Siffre waved to well-wishers before beginning a two-month sojourn in the Clamouse cave in France in November 1999.",
+                    "copyright": "Philippe Desmazes/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/23/multimedia/20Siffre-03-hcqg/20Siffre-03-hcqg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Michel Siffre waved to well-wishers before beginning a two-month sojourn in the Clamouse cave in France in November 1999.",
+                    "copyright": "Philippe Desmazes/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Nasal Flu Vaccine Is Approved for At-Home Use",
+            "abstract": "The F.D.A. authorized AstraZeneca’s treatment to be given outside a health care setting, although it will still need a prescription.",
+            "url": "https://www.nytimes.com/2024/09/20/health/nasal-flu-vaccine-approved.html",
+            "uri": "nyt://article/87bbcbb1-867f-5061-bc91-40d5183d953a",
+            "byline": "By Christina Jewett",
+            "item_type": "Article",
+            "updated_date": "2024-09-22T20:44:53-04:00",
+            "created_date": "2024-09-20T14:46:59-04:00",
+            "published_date": "2024-09-20T14:46:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Influenza",
+                "Vaccination and Immunization",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [
+                "AstraZeneca PLC",
+                "Food and Drug Administration"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2014/03/12/business/20FLUMIST/20FLUMIST-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1243,
+                    "width": 1243,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The FluMist vaccine will remain available from prescribers as an in-office treatment.",
+                    "copyright": "AstraZeneca"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2014/03/12/business/20FLUMIST/20FLUMIST-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The FluMist vaccine will remain available from prescribers as an in-office treatment.",
+                    "copyright": "AstraZeneca"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2014/03/12/business/20FLUMIST/20FLUMIST-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The FluMist vaccine will remain available from prescribers as an in-office treatment.",
+                    "copyright": "AstraZeneca"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "F.T.C. Accuses Drug Middlemen of Inflating Insulin Prices",
+            "abstract": "The case takes aim at the major pharmacy benefit managers, agency officials said, claiming that they favored more expensive insulin products and forced patients to pay more.",
+            "url": "https://www.nytimes.com/2024/09/20/health/ftc-drug-price-inflation-insulin.html",
+            "uri": "nyt://article/b48420f2-7266-5b3b-977e-ff0adfbfbd1b",
+            "byline": "By Reed Abelson and Rebecca Robbins",
+            "item_type": "Article",
+            "updated_date": "2024-09-21T08:44:37-04:00",
+            "created_date": "2024-09-20T12:07:20-04:00",
+            "published_date": "2024-09-20T12:07:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Prices (Fares, Fees and Rates)",
+                "Drugs (Pharmaceuticals)",
+                "Health Insurance and Managed Care",
+                "Suits and Litigation (Civil)",
+                "Presidential Election of 2024",
+                "Drugstores",
+                "Insulin",
+                "Antitrust Laws and Competition Issues",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "CIGNA Corporation",
+                "CVS Caremark Corporation",
+                "Express Scripts Inc",
+                "Federal Trade Commission"
+            ],
+            "per_facet": [
+                "Khan, Lina"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2023/10/29/multimedia/20FTC-PBMS/20FTC-PBMS-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 2047,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lina Khan, the chair of the Federal Trade Commission.",
+                    "copyright": "Tom Brenner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/10/29/multimedia/20FTC-PBMS/20FTC-PBMS-threeByTwoSmallAt2X-v2.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lina Khan, the chair of the Federal Trade Commission.",
+                    "copyright": "Tom Brenner for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2023/10/29/multimedia/20FTC-PBMS/20FTC-PBMS-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Lina Khan, the chair of the Federal Trade Commission.",
+                    "copyright": "Tom Brenner for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Three Mile Island Plans to Reopen as Demand for Nuclear Power Grows",
+            "abstract": "The infamous plant, closed since 2019, is getting a new lease on life after Microsoft agreed to buy its electricity to supply a growing fleet of data centers.",
+            "url": "https://www.nytimes.com/2024/09/20/climate/three-mile-island-reopening.html",
+            "uri": "nyt://article/b2fdb491-ec86-5fe2-b9c6-903e16eb67e1",
+            "byline": "By Brad Plumer",
+            "item_type": "Article",
+            "updated_date": "2024-09-20T22:02:51-04:00",
+            "created_date": "2024-09-20T07:00:08-04:00",
+            "published_date": "2024-09-20T07:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Electric Light and Power",
+                "Nuclear Energy"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Three Mile Island (Pa)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/climate/00cli-ThreeMileIsland/00cli-ThreeMileIsland-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Three Mile Island nuclear plant in Londonderry Township, Pa.",
+                    "copyright": "Andrew Caballero-Reynolds/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/climate/00cli-ThreeMileIsland/00cli-ThreeMileIsland-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Three Mile Island nuclear plant in Londonderry Township, Pa.",
+                    "copyright": "Andrew Caballero-Reynolds/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/climate/00cli-ThreeMileIsland/00cli-ThreeMileIsland-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Three Mile Island nuclear plant in Londonderry Township, Pa.",
+                    "copyright": "Andrew Caballero-Reynolds/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "John A. Clements Dies at 101; His Research Saved Thousands of Babies",
+            "abstract": "He identified the cause of a respiratory condition that was killing 10,000 infants a year in the United States. Then he helped design a drug that slashed those mortality rates.",
+            "url": "https://www.nytimes.com/2024/09/19/science/dr-john-a-clements-dead.html",
+            "uri": "nyt://article/9a0e9660-2277-5e5a-89b6-53917815ba23",
+            "byline": "By Trip Gabriel",
+            "item_type": "Article",
+            "updated_date": "2024-09-21T23:19:53-04:00",
+            "created_date": "2024-09-19T17:50:11-04:00",
+            "published_date": "2024-09-19T17:50:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Research",
+                "Colleges and Universities",
+                "Infant Mortality",
+                "Doctors",
+                "Lungs",
+                "Premature Babies",
+                "Drugs (Pharmaceuticals)"
+            ],
+            "org_facet": [
+                "University of California, San Francisco"
+            ],
+            "per_facet": [
+                "Clements, John A"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/22/multimedia/18Clements-vfgb-print1/18Clements-vfgb-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1553,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. John A. Clements in 2016. His pulmonary research led to a treatment for respiratory distress syndrome, or R.D.S., once the leading cause of neonatal deaths in the United States.",
+                    "copyright": "Steve Babuljak, via UCSF"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/22/multimedia/18Clements-vfgb-print1/18Clements-vfgb-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. John A. Clements in 2016. His pulmonary research led to a treatment for respiratory distress syndrome, or R.D.S., once the leading cause of neonatal deaths in the United States.",
+                    "copyright": "Steve Babuljak, via UCSF"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/22/multimedia/18Clements-vfgb-print1/18Clements-vfgb-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Dr. John A. Clements in 2016. His pulmonary research led to a treatment for respiratory distress syndrome, or R.D.S., once the leading cause of neonatal deaths in the United States.",
+                    "copyright": "Steve Babuljak, via UCSF"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Prehistoric Earth Was Very Hot. That Offers Clues About Future Earth.",
+            "abstract": "At times during the past half-billion years, carbon dioxide warmed our planet more than previously thought, according to a new reconstruction of Earth’s deep past.",
+            "url": "https://www.nytimes.com/2024/09/19/climate/prehistoric-earth-temperatures.html",
+            "uri": "nyt://article/68499fc1-c77d-551a-8410-c18f231736e5",
+            "byline": "By Raymond Zhong",
+            "item_type": "Article",
+            "updated_date": "2024-09-19T21:12:40-04:00",
+            "created_date": "2024-09-19T14:00:07-04:00",
+            "published_date": "2024-09-19T14:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Research",
+                "Carbon Dioxide",
+                "Paleontology",
+                "Earth"
+            ],
+            "org_facet": [
+                "Science (Journal)",
+                "Smithsonian Institution"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/climate/19cli-EARTH-TEMPS/19cli-EARTH-TEMPS-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist’s impression of life on Earth during the Carboniferous Period, 300 million years ago.",
+                    "copyright": "Felix Images/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/climate/19cli-EARTH-TEMPS/19cli-EARTH-TEMPS-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist’s impression of life on Earth during the Carboniferous Period, 300 million years ago.",
+                    "copyright": "Felix Images/Alamy"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/climate/19cli-EARTH-TEMPS/19cli-EARTH-TEMPS-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An artist’s impression of life on Earth during the Carboniferous Period, 300 million years ago.",
+                    "copyright": "Felix Images/Alamy"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Asphalt Schoolyards Get a Shady Makeover",
+            "abstract": "Schools across the country are adding trees, tent-like structures and water to their playgrounds as temperatures soar.",
+            "url": "https://www.nytimes.com/2024/09/19/climate/school-playgrounds-shade-heat.html",
+            "uri": "nyt://article/0770bfdf-d0d6-5686-8140-e0eb4e315c4e",
+            "byline": "By Somini Sengupta",
+            "item_type": "Article",
+            "updated_date": "2024-09-20T21:07:04-04:00",
+            "created_date": "2024-09-19T11:19:48-04:00",
+            "published_date": "2024-09-19T11:19:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Heat and Heat Waves",
+                "Education (K-12)",
+                "Weather",
+                "Trees and Shrubs",
+                "Playgrounds"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/00CLI-schoolyard-01-glkj/00CLI-schoolyard-01-glkj-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Recess at Highland Arts Elementary School in Mesa, Ariz.",
+                    "copyright": "Caitlin O'Hara for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/00CLI-schoolyard-01-glkj/00CLI-schoolyard-01-glkj-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Recess at Highland Arts Elementary School in Mesa, Ariz.",
+                    "copyright": "Caitlin O'Hara for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/17/multimedia/00CLI-schoolyard-01-glkj/00CLI-schoolyard-01-glkj-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Recess at Highland Arts Elementary School in Mesa, Ariz.",
+                    "copyright": "Caitlin O'Hara for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Research That Led to Obesity Drugs Wins Major Medical Prize",
+            "abstract": "Three scientists were recognized by the Lasker Awards for their work on the GLP-1 hormone. Others were honored for work to stop H.I.V. and for immune system discoveries.",
+            "url": "https://www.nytimes.com/2024/09/19/health/2024-lasker-awards-ozempic-wegovy-glp-1.html",
+            "uri": "nyt://article/9522a360-5f93-5149-91c2-1426b7cfb499",
+            "byline": "By Gina Kolata and Stephanie Nolen",
+            "item_type": "Article",
+            "updated_date": "2024-09-20T06:27:41-04:00",
+            "created_date": "2024-09-19T09:00:20-04:00",
+            "published_date": "2024-09-19T09:00:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Lasker Awards",
+                "GLP-1 RAs (Drug)",
+                "Semaglutide (Drug)",
+                "Ozempic (Drug)",
+                "Obesity",
+                "Research",
+                "Acquired Immune Deficiency Syndrome",
+                "Immune System"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Abdool Karim, Quarraisha",
+                "Abdool Karim, Salim",
+                "Habener, Joel (1937- )",
+                "Mojsov, Svetlana (1947- )",
+                "Knudsen, Lotte Bjerre",
+                "Chen, Zhijian (James)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19laskers-prize-01-vjgq/19laskers-prize-01-vjgq-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Svetlana Mojsov is one of several scientists recognized by the Lasker Foundation whose work helped pave the way for blockbuster obesity and diabetes drugs.",
+                    "copyright": "Chris Taggart/The Rockefeller University, via Lasker Foundation"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19laskers-prize-01-vjgq/19laskers-prize-01-vjgq-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Svetlana Mojsov is one of several scientists recognized by the Lasker Foundation whose work helped pave the way for blockbuster obesity and diabetes drugs.",
+                    "copyright": "Chris Taggart/The Rockefeller University, via Lasker Foundation"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19laskers-prize-01-vjgq/19laskers-prize-01-vjgq-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Svetlana Mojsov is one of several scientists recognized by the Lasker Foundation whose work helped pave the way for blockbuster obesity and diabetes drugs.",
+                    "copyright": "Chris Taggart/The Rockefeller University, via Lasker Foundation"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "‘Red Flags’ on Climate: U.S. Methane Emissions Keep Climbing",
+            "abstract": "Satellite data shows the U.S. releasing more and more of the potent greenhouse gas into the atmosphere, researchers said, despite pledges to cut back.",
+            "url": "https://www.nytimes.com/2024/09/19/climate/us-methane-greenhouse-gas.html",
+            "uri": "nyt://article/d103c692-0a69-5bc1-8c42-9d20ad550229",
+            "byline": "By Max Bearak",
+            "item_type": "Article",
+            "updated_date": "2024-09-22T22:25:53-04:00",
+            "created_date": "2024-09-19T05:01:19-04:00",
+            "published_date": "2024-09-19T05:01:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Methane",
+                "Natural Gas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19cli-methane-kfqc/19cli-methane-kfqc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The concentration of methane in the atmosphere is now more than two-and-a-half times greater than preindustrial levels.",
+                    "copyright": "David Goldman/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19cli-methane-kfqc/19cli-methane-kfqc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The concentration of methane in the atmosphere is now more than two-and-a-half times greater than preindustrial levels.",
+                    "copyright": "David Goldman/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/19/multimedia/19cli-methane-kfqc/19cli-methane-kfqc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The concentration of methane in the atmosphere is now more than two-and-a-half times greater than preindustrial levels.",
+                    "copyright": "David Goldman/Associated Press"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Tyson Faces Lawsuit Over Labeling of ‘Climate-Smart’ Beef",
+            "abstract": "An environmental group said the company, a major food producer, was misleading shoppers with its claims about eco-friendly practices.",
+            "url": "https://www.nytimes.com/2024/09/18/climate/tyson-beef-climate-lawsuit.html",
+            "uri": "nyt://article/751da992-6997-58c7-a8e9-360c58e0db87",
+            "byline": "By Karen Zraick",
+            "item_type": "Article",
+            "updated_date": "2024-09-19T11:33:30-04:00",
+            "created_date": "2024-09-18T14:35:35-04:00",
+            "published_date": "2024-09-18T14:35:35-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Suits and Litigation (Civil)",
+                "Meatpacking Plants and Slaughterhouses",
+                "Beef",
+                "Corporate Social Responsibility",
+                "Advertising and Marketing",
+                "Greenhouse Gas Emissions",
+                "Labeling and Labels (Product)",
+                "Consumer Protection"
+            ],
+            "org_facet": [
+                "Environmental Working Group",
+                "Tyson Foods Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-beef-lawsuit-lbzg/18cli-beef-lawsuit-lbzg-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazen Beef, a new Tyson Foods brand with packaging that uses the language “climate friendly.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-beef-lawsuit-lbzg/18cli-beef-lawsuit-lbzg-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazen Beef, a new Tyson Foods brand with packaging that uses the language “climate friendly.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-beef-lawsuit-lbzg/18cli-beef-lawsuit-lbzg-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Brazen Beef, a new Tyson Foods brand with packaging that uses the language “climate friendly.”",
+                    "copyright": ""
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "Floods Wreak Havoc Across Four Continents",
+            "abstract": "Flooding events around the world share a common factor of an atmosphere made warmer by climate change. What can be done to help citizens prepare?",
+            "url": "https://www.nytimes.com/2024/09/18/climate/global-flooding-climate-change.html",
+            "uri": "nyt://article/31235f05-a672-5204-aeb3-a0aba850464c",
+            "byline": "By Austyn Gaffney and Somini Sengupta",
+            "item_type": "Article",
+            "updated_date": "2024-09-19T21:12:07-04:00",
+            "created_date": "2024-09-18T14:33:19-04:00",
+            "published_date": "2024-09-18T14:33:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Global Warming",
+                "Greenhouse Gas Emissions",
+                "Landslides and Mudslides",
+                "Weather",
+                "Floods",
+                "Infrastructure (Public Works)",
+                "Disasters and Emergencies"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-global-flooding-01-cbtp/18cli-global-flooding-01-cbtp-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The swollen Elbe river in Dresden, Germany, on Tuesday.",
+                    "copyright": "Filip Singer/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-global-flooding-01-cbtp/18cli-global-flooding-01-cbtp-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The swollen Elbe river in Dresden, Germany, on Tuesday.",
+                    "copyright": "Filip Singer/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-global-flooding-01-cbtp/18cli-global-flooding-01-cbtp-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The swollen Elbe river in Dresden, Germany, on Tuesday.",
+                    "copyright": "Filip Singer/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Bulletproofing America’s Classrooms",
+            "abstract": "Ballistic armor companies are marketing protective products designed for the military to parents and schools. Some people see the items as unsettling but prudent; others find them infuriating.",
+            "url": "https://www.nytimes.com/interactive/2024/09/18/science/bulletproofing-schools.html",
+            "uri": "nyt://interactive/68d35045-2918-5529-8b6d-aad2e9229f43",
+            "byline": "By Emily Baumgaertner and Alex Kalman",
+            "item_type": "Interactive",
+            "updated_date": "2024-09-18T15:25:18-04:00",
+            "created_date": "2024-09-18T11:02:08-04:00",
+            "published_date": "2024-09-18T11:02:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/science/bulletproofing-promo/bulletproofing-promo-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 960,
+                    "width": 1440,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/science/bulletproofing-promo/bulletproofing-promo-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/science/bulletproofing-promo/bulletproofing-promo-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Study Reveals Bird-Migration Mystery",
+            "abstract": "By outfitting blackbirds with heart-rate monitors, scientists debunked a long-held assumption about the benefits of spending the winter in warm climates.",
+            "url": "https://www.nytimes.com/2024/09/18/science/birds-migration-energy.html",
+            "uri": "nyt://article/60bf581e-d336-58ea-9570-b9b6ac521316",
+            "byline": "By Emily Anthes",
+            "item_type": "Article",
+            "updated_date": "2024-09-19T15:48:07-04:00",
+            "created_date": "2024-09-18T07:33:25-04:00",
+            "published_date": "2024-09-18T07:33:25-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Animal Migration",
+                "Birds",
+                "your-feed-animals",
+                "your-feed-science",
+                "Research"
+            ],
+            "org_facet": [
+                "Nature Ecology & Evolution (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Germany"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18MIGRATION-01-pfgz/18MIGRATION-01-pfgz-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christian Ziegler/Max Planck Institute of Animal Behavior"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18MIGRATION-01-pfgz/18MIGRATION-01-pfgz-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christian Ziegler/Max Planck Institute of Animal Behavior"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18MIGRATION-01-pfgz/18MIGRATION-01-pfgz-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christian Ziegler/Max Planck Institute of Animal Behavior"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "What R.F.K. Jr.’s Alliance With Trump Could Mean for Public Health",
+            "abstract": "Robert F. Kennedy Jr., who has long voiced doubts about vaccine safety, has hopes of influencing federal health policy. Could he finally get the chance?",
+            "url": "https://www.nytimes.com/2024/09/18/health/rfk-trump-public-health.html",
+            "uri": "nyt://article/777a0327-2fb8-549e-baef-8865afc07cdc",
+            "byline": "By Emily Baumgaertner",
+            "item_type": "Article",
+            "updated_date": "2024-09-20T22:16:28-04:00",
+            "created_date": "2024-09-18T05:02:17-04:00",
+            "published_date": "2024-09-18T05:02:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Vaccination and Immunization",
+                "Medicine and Health",
+                "Rumors and Misinformation",
+                "United States Politics and Government",
+                "Presidential Election of 2024",
+                "Coronavirus (2019-nCoV)",
+                "Conspiracy Theories",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Children's Health Defense"
+            ],
+            "per_facet": [
+                "Kennedy, Robert F Jr"
+            ],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-superJumbo-v2.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1362,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+                    "copyright": "Rachel Woolf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-threeByTwoSmallAt2X-v3.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+                    "copyright": "Rachel Woolf for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/06/multimedia/rfk-pubh-record-zgkp/rfk-pubh-record-zgkp-thumbLarge-v2.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Robert F. Kennedy Jr. speaking at a rally in May. Donald Trump has said that he “probably would” appoint Mr. Kennedy to a role in his administration.",
+                    "copyright": "Rachel Woolf for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "climate",
+            "subsection": "",
+            "title": "How Colorado Cowboys and Conservationists Joined Forces to Stop Drilling",
+            "abstract": "The members of a self-described ragtag group had little in common, but their campaign could serve as model for future environmental efforts.",
+            "url": "https://www.nytimes.com/2024/09/18/climate/colorado-thompson-divide-oil-gas.html",
+            "uri": "nyt://article/35b1333d-1a31-5a1a-b9f2-c9f838704af2",
+            "byline": "By Zoë Rom and Eli Imadali",
+            "item_type": "Article",
+            "updated_date": "2024-09-22T20:50:06-04:00",
+            "created_date": "2024-09-18T05:00:51-04:00",
+            "published_date": "2024-09-18T05:00:51-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Land Use Policies",
+                "Federal Lands",
+                "Forests and Forestry",
+                "Conservation of Resources",
+                "Drilling and Boring",
+                "Natural Gas",
+                "Oil (Petroleum) and Gasoline",
+                "Environment",
+                "Wilderness Areas",
+                "Cowboys and Cowgirls",
+                "United States Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+                "Colorado",
+                "White River National Forest (Colo)",
+                "Thompson Divide (Colo)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eli Imadali for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eli Imadali for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18cli-colorado-promo-lbtk/18cli-colorado-promo-lbtk-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Eli Imadali for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "insider",
+            "subsection": "",
+            "title": "Plastic Waste and Toxic Sludge: A Sweep of a Messy Beat",
+            "abstract": "The Climate reporter Hiroko Tabuchi is interested in all the things we take for granted about our environment.",
+            "url": "https://www.nytimes.com/2024/09/18/insider/pollution-effects.html",
+            "uri": "nyt://article/e95ab4e1-1093-533e-9d82-c5a225a5d077",
+            "byline": "By Josh Ocampo",
+            "item_type": "Article",
+            "updated_date": "2024-09-18T03:00:09-04:00",
+            "created_date": "2024-09-18T03:00:09-04:00",
+            "published_date": "2024-09-18T03:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "Times Insider",
+            "des_facet": [
+                "Earth",
+                "PFAS (Per- and Polyfluoroalkyl Substances)",
+                "Recycling of Waste Materials",
+                "Air Pollution",
+                "Pollution",
+                "Water Pollution"
+            ],
+            "org_facet": [
+                "Fukushima Daiichi Nuclear Power Plant (Japan)"
+            ],
+            "per_facet": [
+                "Tabuchi, Hiroko"
+            ],
+            "geo_facet": [
+                "Fukushima (Japan)",
+                "Honshu (Japan)",
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18a2_insider-zjqc/18a2_insider-zjqc-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2019, the reporter Hiroko Tabuchi traveled to Texas to report on large amounts of methane escaping from oil and gas sites.",
+                    "copyright": "Jonah M. Kessel/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18a2_insider-zjqc/18a2_insider-zjqc-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2019, the reporter Hiroko Tabuchi traveled to Texas to report on large amounts of methane escaping from oil and gas sites.",
+                    "copyright": "Jonah M. Kessel/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18a2_insider-zjqc/18a2_insider-zjqc-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In 2019, the reporter Hiroko Tabuchi traveled to Texas to report on large amounts of methane escaping from oil and gas sites.",
+                    "copyright": "Jonah M. Kessel/The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Deep Links Between Alcohol and Cancer Are Described in New Report",
+            "abstract": "Scientists continue to rethink the idea that moderate drinking offers health benefits.",
+            "url": "https://www.nytimes.com/2024/09/18/health/alcohol-cancer-young-adults.html",
+            "uri": "nyt://article/d015e7af-2857-51d9-b63f-3a62777de3ca",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2024-09-20T18:09:52-04:00",
+            "created_date": "2024-09-18T02:10:33-04:00",
+            "published_date": "2024-09-18T02:10:33-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Colon and Colorectal Cancer",
+                "Alcoholic Beverages",
+                "Deaths (Fatalities)",
+                "Breast Cancer",
+                "Cancer",
+                "Digestive Tract",
+                "Esophageal Cancer",
+                "Heart",
+                "Research",
+                "Wines",
+                "Head and Neck Cancer",
+                "Breasts",
+                "Estrogen",
+                "Colon"
+            ],
+            "org_facet": [
+                "American Assn for Cancer Research"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+                    "copyright": "Karsten Moran for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+                    "copyright": "Karsten Moran for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2024/09/18/multimedia/18alcohol-cancer-jqbf/18alcohol-cancer-jqbf-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Excessive alcohol consumption increases the risk of six different types of cancer, but consumers are generally unaware.",
+                    "copyright": "Karsten Moran for The New York Times"
+                }
+            ],
+            "short_url": ""
+        }
+    ]
+}
