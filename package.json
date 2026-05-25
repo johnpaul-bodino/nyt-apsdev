@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build --public-url ./ src/index.html && npx cpx src/science.json dist/ && npx cpx src/test.json dist/",
-    "start": "parcel serve src/index.html"
+    "build": "node -e \"const fs=require('fs');fs.rmSync('dist',{recursive:true,force:true});\" && parcel build --public-url ./ src/index.html && npx cpx src/science.json dist/ && npx cpx src/test.json dist/",
+    "start": "parcel serve src/index.html",
+    "deploy": "npm run build && node -e \"const fs=require('fs');fs.rmSync('docs',{recursive:true,force:true});fs.cpSync('dist','docs',{recursive:true});\""
   },
   "author": "",
   "license": "ISC",

@@ -13,4 +13,4 @@ const e=document.querySelector(".scienceNews"),t=document.querySelector("#scienc
                             <p class="description">${e.description}</p>
                           </div>
                         </div>`}),l.innerHTML=r}catch(e){console.error("Error fetching JSON data:",e)}}();const s=document.querySelector(".toggle_btn"),c=document.querySelector(".dropdown_menu"),u=s?s.querySelector("i"):null;function d(){let e=document.getElementById("current-time");if(!e)return;let t=new Date;e.innerHTML=t.toLocaleDateString("en-US",{weekday:"long",year:"numeric",month:"long",day:"numeric"}),e.setAttribute("datetime",t.toISOString())}s&&c&&u&&s.addEventListener("click",()=>{c.classList.toggle("open"),c.classList.contains("open")?(u.classList.remove("uil-bars"),u.classList.add("uil-times")):(u.classList.remove("uil-times"),u.classList.add("uil-bars"))}),d(),setInterval(d,1e3);
-//# sourceMappingURL=index.d7b5d8fb.js.map
+//# sourceMappingURL=science.c88acfa5.js.map

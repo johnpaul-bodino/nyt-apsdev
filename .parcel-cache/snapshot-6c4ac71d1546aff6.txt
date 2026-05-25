@@ -1,4 +1,4 @@
-9299
+9237
 79C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\ordered-binary\assets134242206065818192 1
 88C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\resolve\test\precedence\aaa.js134242205968681667 0
 69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\math-random134242206076309022 1
@@ -8,14 +8,13 @@
 106C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\es7.reflect.get-metadata-keys.js134242206237776177 0
 68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\source-map134242204608609168 1
 78C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\packager-raw134242205256852186 1
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.b81d41e3.js.map134242202872717943 0
 76C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\.package-lock.json134242209987726284 0
 95C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\lib\syntax\scope\selector.js134242206221918046 0
 74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\type-fest\source134242204619019761 1
 95C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_iter-step.js134242206209425184 0
 81C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\csso\lib\replace\atrule134242206204626904 1
 69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\cpx\LICENSE134242206182008383 0
-57C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\package.json134242213709289243 0
+57C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\package.json134242219173458264 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\source-map-js\lib\quick-sort.js134242204603619528 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\regions\NI.js134242209895334614 0
 62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\package-lock.json134242209985566877 0
@@ -30,7 +29,7 @@
 91C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\es6.string.sub.js134242206234593867 0
 107C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js134242204604787790 0
 88C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\helpers\cjs\_ts_param.cjs134242206579236909 0
-49C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist134242213788679703 1
+49C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist134242219737372733 1
 128C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\String.js134242206463403598 0
 86C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\snapdragon-node\package.json134242205955303362 0
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\utils\src\isDirectoryInside.js134242205142136739 0
@@ -51,7 +50,7 @@
 109C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-select\node_modules\dom-serializer\lib\index.js134242206559800852 0
 98C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\type-fest\source\conditional-except.d.ts134242204605110116 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\entities\lib\index.d.ts.map134242206185928644 0
-49C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs134242202872954835 1
+49C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs134242219378765228 1
 105C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\babel-runtime\helpers\_sliced-to-array-loose.js134242206338575708 0
 110C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs134242206568962799 0
 100C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\fn\string\virtual\code-point-at.js134242206225171666 0
@@ -78,7 +77,7 @@
 70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\js-yaml\dist134242205006290460 1
 83C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\minimist\test\kv_short.js134242204605110116 0
 82C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\expand-brackets\index.js134242206181175601 0
-54C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\README.md134242210247758957 0
+54C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\README.md134242218808519510 0
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\features\jpegxl.js134242209890887362 0
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\remove-trailing-separator\history.md134242205965961158 0
 82C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\normalize-path\README.md134242206066172789 0
@@ -572,7 +571,6 @@
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\resolve\test\resolver\dot_slash_main134242205975729768 1
 88C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\core\object.js134242206432648533 0
 101C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\unset-value\node_modules\has-values\LICENSE134242206539885849 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.8bdfcce7.css.map134242207773799270 0
 77C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\csso\cjs\syntax.cjs134242206191707670 0
 84C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\utility-types\CHANGELOG.md134242204605944501 0
 72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\extend-shallow134242206177140027 1
@@ -620,6 +618,7 @@
 73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\semver\internal134242205006059137 1
 64C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\for-in134242206170060451 1
 91C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\node-addon-api\node_addon_api.gyp134242204594282712 0
+72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.ed860689.css.map134242219308442592 0
 65C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\for-own134242206169979767 1
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\regions\ET.js134242209883849879 0
 107C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js134242204604306215 0
@@ -850,7 +849,6 @@
 102C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\features\css-appearance.js134242209874450820 0
 70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\object-visit134242207455492308 1
 65C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\js-yaml134242205006210635 1
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.33f54401.js134242202872717943 0
 76C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\tslib\package.json134242205936793681 0
 87C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\json-parse-even-better-errors134242204600613546 1
 81C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\posix-character-classes134242206049110249 1
@@ -936,7 +934,6 @@
 100C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\array\virtual\reduce.js134242206433747817 0
 67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\nanomatch134242206068024075 1
 73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\snapdragon-util134242205962983371 1
-59C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\test.json134242213841337666 0
 81C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\json5\dist\index.min.js134242205004484284 0
 111C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\snapdragon\node_modules\source-map\dist\source-map.js134242206548811062 0
 72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\node-addon-api134242204611446489 1
@@ -1205,6 +1202,7 @@
 84C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\svgo\plugins\reusePaths.js134242205975489771 0
 100C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\es6.typed.float32-array.js134242206234837462 0
 86C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\minimist\.github\FUNDING.yml134242204611305612 0
+71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.44d35b95.js.map134242219308442592 0
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\source-map\lib\source-map-generator.js134242204605944501 0
 100C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\features\console-time.js134242209873576393 0
 81C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\to-object-path\index.js134242205944369878 0
@@ -2165,7 +2163,6 @@
 78C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\source-map\README.md134242204597284991 0
 78C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\nullthrows\README.md134242204602279326 0
 74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\globals\index.js134242204594944713 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.ae514f41.js.map134242202872637930 0
 84C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\source-map\source-map.d.ts134242204608274886 0
 99C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\readdirp\node_modules\braces\package.json134242206543967380 0
 114C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\babel-runtime\core-js\object\get-own-property-symbols.js134242206339658348 0
@@ -2359,7 +2356,6 @@
 107C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es6.string.starts-with.js134242206234433696 0
 86C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\fn\object\entries.js134242206228457260 0
 84C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\stage\2.js134242206221838062 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.6c3e7a7d.js134242208011338361 0
 83C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\shell-quote\test\parse.js134242205969192368 0
 74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\lmdb\binding.gyp134242205008124174 0
 113C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\common134242206463570313 1
@@ -2869,7 +2865,6 @@
 123C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\readdirp\node_modules\is-number\node_modules\kind-of\package.json134242206542135563 0
 80C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\env-paths\package.json134242204598452541 0
 134C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\nth.js134242206462415552 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.a7e21ba7.js134242202872637930 0
 90C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\array\push.js134242206433476054 0
 120C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\readdirp\node_modules\is-number\node_modules\kind-of\README.md134242206542617039 0
 93C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\workers\src\web\WebChild.js134242205142136739 0
@@ -3329,7 +3324,6 @@
 102C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h134242205008553243 0
 132C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\convertEllipseToCircle.js134242206456955205 0
 106C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\expand-range\node_modules\is-number\package.json134242206547557266 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.39672672.js.map134242202872557926 0
 81C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\pascalcase\package.json134242206053147340 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\lib\lexer\trace.js134242206222939978 0
 76C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\parse-json\license134242204593115214 0
@@ -3353,7 +3347,6 @@
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\fn\reflect\has-own-metadata.js134242206245331999 0
 99C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\es6.date.to-iso-string.js134242206229666874 0
 97C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\parse-glob\node_modules\is-glob\LICENSE134242206548471621 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.74c613b8.css134242202872557926 0
 111C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\csso\node_modules\css-tree\lib\generator\sourceMap.js134242206587106826 0
 105C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\parse-glob\node_modules\is-extglob\package.json134242206545978324 0
 102C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\parse-glob\node_modules\is-extglob\README.md134242206547077808 0
@@ -3535,7 +3528,6 @@
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-select\lib\esm\attributes.d.ts.map134242206191296654 0
 113C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-urange.cjs134242206566302497 0
 99C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\node-gyp-build-optional-packages\index.js134242205004484284 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.33f54401.js.map134242202872717943 0
 98C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\node-gyp-build-optional-packages\LICENSE134242205004208406 0
 87C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\htmlnano\docs\babel.config.js134242206185842073 0
 103C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\features\css-crisp-edges.js134242209875126054 0
@@ -3781,7 +3773,6 @@
 102C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\library\es6.function.name.js134242206229917060 0
 80C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\minimist\test\proto.js134242204607126575 0
 80C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\minimist\test\short.js134242204608609168 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.4a85e0b8.js134242202872717943 0
 108C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\csso\node_modules\css-tree\lib\syntax\node\Rule.js134242206586797550 0
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\reflect\metadata.js134242206432482328 0
 84C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\graceful-fs\graceful-fs.js134242204598279056 0
@@ -3831,7 +3822,6 @@
 88C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\mdn-data\css\types.schema.json134242206078675937 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\htmlparser2\lib\Parser.d.ts134242206183428473 0
 88C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\mdn-data\css\units.schema.json134242206078755927 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.736faa48.css.map134242210087838588 0
 105C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\transformer-html\src\HTMLTransformer.js134242205059517099 0
 116C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\jsAPI.js134242206458399863 0
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\mdn-data\api\inheritance.schema.json134242206077310809 0
@@ -4002,7 +3992,6 @@
 107C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\crypto.c134242205006059137 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\fs\lib\index.js.map134242207455332303 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\domelementtype\lib\index.js134242206181771742 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.736faa48.css134242202872798556 0
 107C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Doxyfile134242205004805956 0
 109C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c134242205006701682 0
 92C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_for-of.js134242206200922979 0
@@ -4340,7 +4329,6 @@
 92C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\es7.set.to-json.js134242206239147245 0
 100C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\htmlnano\docs\versioned_docs\version-2.0.0134242206197607315 1
 78C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\core\index.d.ts134242206168675611 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.3a044413.css134242210357769331 0
 120C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\010-introduction.md134242206194107429 0
 113C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\020-usage.md134242206194614719 0
 109C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\helpers\_\_class_static_private_field_spec_set134242206563567943 1
@@ -4485,7 +4473,6 @@
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\es6.array.species.js134242206229586875 0
 119C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\package-manager\test\getCurrentPackageManager.test.js134242205405912570 0
 70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\glob\sync.js134242204600442904 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.889079e7.css134242202872798556 0
 75C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\get-value\LICENSE134242206169283249 0
 87C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\electron-to-chromium\index.js134242206182376013 0
 80C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\get-value\package.json134242206169142737 0
@@ -5325,7 +5312,6 @@
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\lib\syntax\node\CDO.js134242206215605137 0
 103C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\features\arrow-functions.js134242209870377767 0
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\modules\es6.regexp.search.js134242206233514116 0
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.8ed9e9c5.css.map134242202872637930 0
 99C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\lib\syntax\node\ClassSelector.js134242206215866991 0
 97C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\lib\syntax\node\Declaration.js134242206217270535 0
 77C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\types\index.ts134242206182927857 0
@@ -5484,6 +5470,7 @@
 107C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\cjs\syntax\node\common\feature-range.cjs134242206193756878 0
 104C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\helpers\src\_class_private_method_get.mjs134242206594552716 0
 93C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\weak-map\from.js134242206243999361 0
+73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.c88acfa5.js.map134242219308442592 0
 101C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\cjs\syntax\function\expression.cjs134242206193609632 0
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\cjs\syntax\config\lexer.cjs134242206200646087 0
 95C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\cjs\syntax\config\parser.cjs134242206208279973 0
@@ -5492,7 +5479,6 @@
 98C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\cjs\syntax\atrule\font-face.cjs134242206194445013 0
 130C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Rule.js134242206568635346 0
 91C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\helpers\_\_non_iterable_rest134242206568135852 1
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.e771ccfb.css134242207773598422 0
 95C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\cjs\syntax\atrule\import.cjs134242206197760468 0
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\css-tree\cjs\syntax\atrule\media.cjs134242206202943579 0
 103C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\features\contenteditable.js134242209873888902 0
@@ -5774,7 +5760,7 @@
 99C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\helpers\_\_create_super\package.json134242206564721772 0
 91C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\cosmiconfig\dist\loaders.d.ts.map134242204612950297 0
 99C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es7.math.umulh.js134242206236456387 0
-62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.html134242202872798556 0
+62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.html134242219308097289 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\cosmiconfig\dist\loaders.js.map134242204613118846 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\cosmiconfig\dist\merge.d.ts134242204620425977 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\regions\JE.js134242209890887362 0
@@ -6062,7 +6048,6 @@
 99C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\features\textencoder.js134242209902136839 0
 95C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\core.delay.js134242206225589815 0
 103C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\core.function.part.js134242206225669842 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.b81d41e3.js134242202872637930 0
 109C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\core.get-iterator-method.js134242206225669842 0
 108C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es6.typed.float64-array.js134242206234971345 0
 102C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\core.get-iterator.js134242206225757297 0
@@ -6146,7 +6131,6 @@
 105C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es6.object.is-frozen.js134242206231504026 0
 98C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es6.object.is.js134242206231584024 0
 73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\watcher134242205139899528 1
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.4a85e0b8.js.map134242202872717943 0
 100C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es6.object.keys.js134242206231584024 0
 114C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es6.object.prevent-extensions.js134242206231701724 0
 100C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\es6.object.seal.js134242206231701724 0
@@ -6254,6 +6238,7 @@
 93C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_classof.js134242206191627664 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_cof.js134242206193320409 0
 103C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_collection-strong.js134242206193620519 0
+68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.ed860689.css134242219308097289 0
 104C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_collection-to-json.js134242206193787058 0
 90C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_core.js134242206194756973 0
 101C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_create-property.js134242206196643330 0
@@ -6284,7 +6269,6 @@
 105C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_inherit-if-required.js134242206206668058 0
 92C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_invoke.js134242206207106079 0
 93C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_iobject.js134242206207776507 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.33f54401.js134242207773598422 0
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_is-array.js134242206208279973 0
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\modules\_is-integer.js134242206208438801 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\helpers\_\_ts_decorate134242206570734415 1
@@ -6586,7 +6570,6 @@
 101C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\workers\lib\process\ProcessChild.js134242205140038540 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\math\cosh.js134242206227138640 0
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\math\deg-per-rad.js134242206227773808 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.8ed9e9c5.css134242210067839929 0
 91C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\math\fround.js134242206244101635 0
 90C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\math\iaddh.js134242206245503042 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\fn\math\imul.js134242206245663823 0
@@ -6712,7 +6695,6 @@
 87C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\es6\symbol.js134242206436913885 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\es6\weak-set.js134242206441235600 0
 87C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\core\delay.js134242206228094513 0
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.213b89ae.css.map134242210358105118 0
 86C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\core\dict.js134242206228174504 0
 90C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\core\function.js134242206244181711 0
 88C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\core-js\library\core\number.js134242206432568500 0
@@ -7241,7 +7223,6 @@
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\regions\PS.js134242209899636851 0
 82C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\transformer-html134242205059753947 1
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\regions\PY.js134242209899793097 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.4e7a13bd.js134242202872798556 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\regions\QA.js134242209899793097 0
 89C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\caniuse-lite\data\regions\RE.js134242209899949368 0
 103C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\helpers\_\_class_private_field_loose_key134242206560994688 1
@@ -8212,7 +8193,7 @@
 128C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js134242205946941374 0
 80C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@swc\core\Visitor.d.ts134242206168162641 0
 71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\cache134242205622895463 1
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.ed860689.css.map134242211425811477 0
+72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.ed860689.css.map134242219737372733 0
 75C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\codeframe134242206800198095 1
 80C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\compressor-raw134242205559486512 1
 76C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\diagnostic134242205968029725 1
@@ -8723,7 +8704,6 @@
 133C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\properties.schema.json134242206543057400 0
 119C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\dist\csso.min.js134242206538805010 0
 125C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json134242206543404534 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.ae514f41.js134242209508368741 0
 150C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js134242206567734926 0
 132C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.schema.json134242206544471588 0
 124C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\syntaxes.json134242206546790814 0
@@ -8956,7 +8936,6 @@
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\events\lib\index.js134242205447181115 0
 85C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\events\lib\types.js134242205447327950 0
 84C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\diagnostic\LICENSE134242205965615662 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.0ad1a700.css134242202872717943 0
 80C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\diagnostic\src134242205966801808 1
 94C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\diagnostic\src\diagnostic.js134242205966964043 0
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts134242205968350152 0
@@ -8998,12 +8977,11 @@
 93C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\main-mjs134242205951463369 1
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\module-a.js134242205947502861 0
 96C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\module-b.js134242205947502861 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.b56de481.js134242202872798556 0
 91C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\parcel134242205955303362 1
 92C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\plugins134242205947421712 1
 113C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none134242205951703368 1
 112C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one134242205952343391 1
-59C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\test.json134242202872954835 0
+59C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\test.json134242219376417284 0
 112C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two134242205954263358 1
 125C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json134242205952343391 0
 126C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none\package.json134242205951703368 0
@@ -9179,7 +9157,6 @@
 93C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\chalk134242206541742268 1
 113C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\supports-color\browser.js134242204597284991 0
 111C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\supports-color\index.js134242204598614035 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.b56de481.js.map134242202872798556 0
 110C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\supports-color\license134242204600113133 0
 115C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\supports-color\package.json134242204593613406 0
 104C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\has-flag\license134242204598614035 0
@@ -9188,7 +9165,6 @@
 111C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\color-name\package.json134242206451760469 0
 108C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\color-name\README.md134242206452444539 0
 106C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\color-name\test.js134242206453140462 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.08ffa4f4.js.map134242202872557926 0
 116C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\color-convert\conversions.js134242206540069337 0
 110C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\color-convert\index.js134242206540069337 0
 109C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\@babel\highlight\node_modules\color-convert\LICENSE134242206540471367 0
@@ -9245,56 +9221,18 @@
 67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\.bin\svgo134242207459365084 0
 71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\.bin\svgo.cmd134242207459365084 0
 71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\node_modules\.bin\svgo.ps1134242207459365084 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.08ffa4f4.js134242202872557213 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.0ad1a700.css134242202872557926 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.39672672.js134242202872557926 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.736faa48.css134242202872557926 0
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.736faa48.css.map134242202872557926 0
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.74c613b8.css.map134242202872637930 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.8ed9e9c5.css134242202872637930 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.a7e21ba7.js.map134242202872637930 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.ae514f41.js134242202872637930 0
-79C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.ae514f41.js.map.8152.bu134242202872637930 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.e771ccfb.css134242202872717943 0
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.e771ccfb.css.map134242202872717943 0
-60C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.html134242202872717943 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.0ad1a700.css.map134242202872717943 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.4e7a13bd.js.map134242202872798556 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.6c3e7a7d.js134242202872798556 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.6c3e7a7d.js.map134242202872798556 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.736faa48.css.map134242202872798556 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.889079e7.css.map134242202872798556 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.8bdfcce7.css134242202872798556 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.8bdfcce7.css.map134242202872798556 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.8ed9e9c5.css134242202872798556 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.8ed9e9c5.css.map134242202872798556 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.a1af4e59.js134242202872798556 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.a1af4e59.js.map134242202872798556 0
-62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.json134242202872798556 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.213b89ae.css134242210357925547 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.44d35b95.js134242211425610159 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.44d35b95.js.map134242211425811477 0
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.8ed9e9c5.css.map134242210067929878 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.ae514f41.js.map134242209508731144 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.b81d41e3.js134242207773598422 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.b81d41e3.js.map134242207773799270 0
-67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.d7b5d8fb.js134242210357925547 0
-71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.d7b5d8fb.js.map134242210358105118 0
-72C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.e771ccfb.css.map134242207773799270 0
-68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.ed860689.css134242211425610159 0
-60C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.html134242213788679703 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.15f8b8eb.css134242211425560067 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.15f8b8eb.css.map134242211425811477 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.33f54401.js.map134242207773799270 0
-74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.3a044413.css.map134242210358105118 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.6c3e7a7d.js.map134242208011571395 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.736faa48.css134242210087758519 0
-70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.8bdfcce7.css134242207773598422 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.a7c00b0d.js134242210357925547 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.a7c00b0d.js.map134242210358105118 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.b56de481.js134242209508288744 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.b56de481.js.map134242209508731144 0
-69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.c88acfa5.js134242211425610159 0
-73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.c88acfa5.js.map134242211425811477 0
-62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.html134242213788679703 0
-62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.json134242213817181726 0
+67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.44d35b95.js134242219308097289 0
+60C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\index.html134242219307756014 0
+70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.15f8b8eb.css134242219308097289 0
+74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.15f8b8eb.css.map134242219308442592 0
+69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.c88acfa5.js134242219308097289 0
+62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\docs\science.json134242219338265960 0
+67C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.44d35b95.js134242219737150328 0
+71C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.44d35b95.js.map134242219737352294 0
+68C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.ed860689.css134242219737150328 0
+60C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\index.html134242219736942598 0
+70C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.15f8b8eb.css134242219737150328 0
+74C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.15f8b8eb.css.map134242219737352294 0
+69C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.c88acfa5.js134242219737150328 0
+73C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.c88acfa5.js.map134242219737352294 0
+62C:\Users\CLienT\Desktop\Portfolio\nyt-apsdev\dist\science.html134242219737070190 0

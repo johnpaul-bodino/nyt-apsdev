@@ -32,6 +32,24 @@ npm run build
 
 The build output is created in `dist/`.
 
+## Deploy To GitHub Pages
+
+Generate a fresh production build and copy it into `docs/`:
+
+```powershell
+npm run deploy
+```
+
+Commit and push the updated files:
+
+```powershell
+git add README.md package.json package-lock.json src docs
+git commit -m "Deploy updated site"
+git push origin main
+```
+
+In GitHub Pages settings, use the `main` branch and `/docs` folder.
+
 ## Project Files
 
 - `src/index.html` - home page
