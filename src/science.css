@@ -115,12 +115,12 @@ a:hover{
   position: relative;
   align-items: center;
   background-image: url('https://res.cloudinary.com/dda8q97x2/image/upload/v1726765027/portfolio%20images/r9by3rvzvopwsu9vggli.jpg');
-  background-size: cover; 
+  background-size: cover;
   background-position: center;
   min-height: 100vh;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   overflow: hidden;
+  --parallax-y: 0px;
 
 }
 
@@ -133,13 +133,30 @@ a:hover{
   left: 0;
   background-color: MidnightBlue;
   opacity: 0.3;
-  z-index: 0; 
+  z-index: 1;
+}
+
+#container::after{
+  content: "";
+  position: absolute;
+  top: -12%;
+  right: 0;
+  bottom: -12%;
+  left: 0;
+  background-image: url('https://res.cloudinary.com/dda8q97x2/image/upload/v1726765027/portfolio%20images/r9by3rvzvopwsu9vggli.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transform: translate3d(0, var(--parallax-y), 0);
+  will-change: transform;
+  z-index: 0;
 }
 
 
 /*hero*/
 #hero {
   position: relative;
+  z-index: 2;
   min-height: 100vh;
   display: flex;
   flex-direction:column;
@@ -378,6 +395,12 @@ a{
   nav .logo a{
     font-size: 1.5rem;
     font-weight: bold;
+  }
+}
+
+@media (max-width: 768px), (prefers-reduced-motion: reduce) {
+  #container::after{
+    transform: none;
   }
 }
 

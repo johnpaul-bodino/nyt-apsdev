@@ -6,6 +6,7 @@ const imgContainer = document.querySelector('#scienceImg');
 const titleContainer = document.querySelector('#sciencetext .title');
 const descriptionContainer = document.querySelector('#sciencetext .description');
 const bookList = document.querySelector('.book-lists');
+const heroContainer = document.querySelector('#container');
 
 const getTopscience = async () => {
   try {
@@ -137,3 +138,13 @@ function updateDateTime() {
 
 updateDateTime();
 setInterval(updateDateTime, 1000);
+
+function updateParallax() {
+  if (!heroContainer || window.matchMedia('(max-width: 768px)').matches) return;
+
+  const offset = Math.min(window.scrollY * 0.28, 160);
+  heroContainer.style.setProperty('--parallax-y', `${offset}px`);
+}
+
+updateParallax();
+window.addEventListener('scroll', updateParallax, { passive: true });
