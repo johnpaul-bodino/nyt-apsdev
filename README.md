@@ -1,5 +1,5 @@
 # nyt-apsdev
-![NYT APSDEV Preview](assets/preview.png)
+![NYT APSDEV Preview](src/assets/nyt.png)
 A small New York Times themed static site built with Parcel. The home page shows latest science headlines from local JSON data, and the book page shows the Hardcover Fiction list.
 
 ## Run Locally
